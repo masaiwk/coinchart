@@ -6,7 +6,6 @@ CREATE TABLE coinchart
   , coinprice decimal(9,5)
   , coindatetime datetime 
   , PRIMARY KEY (id)
-  ,
   );
 GO
 
